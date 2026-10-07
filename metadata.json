@@ -1,0 +1,8 @@
+{
+  "name": "HateMusic - Vocals-Only Video Pipeline",
+  "description": "Download YouTube audio, remove silence and background noise, build 1080p MP4 videos with artwork, and generate AI metadata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
